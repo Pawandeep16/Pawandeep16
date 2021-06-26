@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pawandeep16
 - 👀 I’m interested in Design and Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
+
 - 📫 How to reach me - thandipawandeep@gmail.com
 
 <!---
