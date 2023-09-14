@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Pawandeep16
-- 👀 I’m interested in Design and Development
-- 🌱 I’m currently learning React and React Native.
-
-- 📫 How to reach me - thandipawandeep@gmail.com
-
-- Hi, I’m a passionate web developer, graphic designer, and full stack enthusiast. I love creating beautiful and functional websites and apps using React and React Native. I’m always eager to learn new technologies and improve my skills. 💻
+Hi, I’m a passionate web developer, graphic designer, and full stack enthusiast. I love creating beautiful and functional websites and apps using React and React Native. I’m always eager to learn new technologies and improve my skills. 💻
 
 🔭 I’m currently working on some personal projects that involve web development, graphic design, and full stack development. I enjoy exploring different aspects of web development, such as front-end, back-end, UI/UX, and SEO. 🚀
 
